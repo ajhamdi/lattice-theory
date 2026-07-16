@@ -1,0 +1,13 @@
+# States with nuclear weapons, dated by first nuclear test (decimal year).
+# Israel is undeclared with no confirmed test and is excluded from the timing fit.
+# NPT entered into force 1970.17. Source: standard chronology (see section 24).
+state,first_test,status
+United States,1945.54,declared
+Soviet Union,1949.66,declared
+United Kingdom,1952.75,declared
+France,1960.12,declared
+China,1964.79,declared
+India,1974.37,declared
+Pakistan,1998.40,declared
+North Korea,2006.77,declared
+Israel,1967.00,undeclared

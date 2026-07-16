@@ -1,0 +1,233 @@
+{
+  "registered": "2026-07-08",
+  "horizon": 2046,
+  "F1_hazard": {
+    "beta_frozen": 1.348,
+    "eta_frozen": 272.0,
+    "table": {
+      "Russian Federation (Constitution 1993)": {
+        "age": 34.0,
+        "p20": 0.051,
+        "p20_range": [
+          0.069,
+          0.025
+        ],
+        "median_rupture_year": 2213.0
+      },
+      "Islamic Republic of Iran (1979)": {
+        "age": 48.0,
+        "p20": 0.056,
+        "p20_range": [
+          0.071,
+          0.032
+        ],
+        "median_rupture_year": 2207.0
+      },
+      "France (Fifth Republic 1958)": {
+        "age": 68.0,
+        "p20": 0.062,
+        "p20_range": [
+          0.073,
+          0.042
+        ],
+        "median_rupture_year": 2199.0
+      },
+      "European Union (Treaty of Rome 1957)": {
+        "age": 70.0,
+        "p20": 0.063,
+        "p20_range": [
+          0.073,
+          0.043
+        ],
+        "median_rupture_year": 2199.0
+      },
+      "India (Constitution 1950)": {
+        "age": 76.0,
+        "p20": 0.064,
+        "p20_range": [
+          0.074,
+          0.046
+        ],
+        "median_rupture_year": 2196.0
+      },
+      "People's Republic of China (1949)": {
+        "age": 78.0,
+        "p20": 0.065,
+        "p20_range": [
+          0.074,
+          0.047
+        ],
+        "median_rupture_year": 2196.0
+      },
+      "Federal Republic of Germany (Basic Law 1949)": {
+        "age": 78.0,
+        "p20": 0.065,
+        "p20_range": [
+          0.074,
+          0.047
+        ],
+        "median_rupture_year": 2196.0
+      },
+      "NATO (Washington Treaty 1949)": {
+        "age": 78.0,
+        "p20": 0.065,
+        "p20_range": [
+          0.074,
+          0.047
+        ],
+        "median_rupture_year": 2196.0
+      },
+      "North Korea (DPRK 1948)": {
+        "age": 78.0,
+        "p20": 0.065,
+        "p20_range": [
+          0.074,
+          0.047
+        ],
+        "median_rupture_year": 2196.0
+      },
+      "Japan (post-war constitution 1947)": {
+        "age": 80.0,
+        "p20": 0.065,
+        "p20_range": [
+          0.074,
+          0.048
+        ],
+        "median_rupture_year": 2195.0
+      },
+      "Pakistan (independence 1947)": {
+        "age": 80.0,
+        "p20": 0.065,
+        "p20_range": [
+          0.074,
+          0.048
+        ],
+        "median_rupture_year": 2195.0
+      },
+      "United Nations (Charter 1945)": {
+        "age": 82.0,
+        "p20": 0.066,
+        "p20_range": [
+          0.074,
+          0.049
+        ],
+        "median_rupture_year": 2195.0
+      },
+      "Saudi Arabia (unification 1932)": {
+        "age": 94.0,
+        "p20": 0.069,
+        "p20_range": [
+          0.075,
+          0.054
+        ],
+        "median_rupture_year": 2191.0
+      },
+      "United States (Constitution of 1789)": {
+        "age": 238.0,
+        "p20": 0.091,
+        "p20_range": [
+          0.081,
+          0.113
+        ],
+        "median_rupture_year": 2161.0
+      },
+      "United Kingdom (Union of 1707)": {
+        "age": 320.0,
+        "p20": 0.1,
+        "p20_range": [
+          0.083,
+          0.144
+        ],
+        "median_rupture_year": 2151.0
+      }
+    },
+    "P_at_least_one_by_2046": 0.65,
+    "expected_ruptures_by_2046": 1.01,
+    "median_first_rupture_year": 2039.9
+  },
+  "F2_fourth_wave": {
+    "onset_year": 2016.0,
+    "onset_X": 0.531,
+    "jmak_reverse": {
+      "Xf": 0.1,
+      "tau": 38.3,
+      "n": 1.49,
+      "floor_and_timing_identified": false,
+      "R2": 0.89
+    },
+    "trough_year_jmak": 2096.2,
+    "trough_year_registered": 2034.5,
+    "trough_window": [
+      2029.0,
+      2040.0
+    ],
+    "floor_jmak": 0.1,
+    "floor_linear_at_trough": 0.44,
+    "fourth_wave_onset_by": 2045.0
+  },
+  "F3_freeze": {
+    "last_admission": 2011,
+    "open_gap_years": 15.5,
+    "max_closed_gap_years": 6,
+    "median_closed_gap_years": 1.0,
+    "fano_factor_5yr": 8.6,
+    "expected_first_admission": 2042.0
+  },
+  "V_armaz_retrodiction": {
+    "fit_through": 2022.7,
+    "tf_hat": 2027.0,
+    "tf_profile_10pct": [
+      2023.0,
+      2060.75
+    ],
+    "exponent_p": 2.04,
+    "actual_fracture": 2023.72,
+    "error_years": 3.28
+  },
+  "F4_kosovo": {
+    "n_events": 10,
+    "last_event": 2024.91,
+    "kendall_tau": -0.61,
+    "kendall_p": 0.025,
+    "tf_hat": 2026.25,
+    "tf_profile_10pct": [
+      2025.5,
+      2034.5
+    ],
+    "exponent_p": 1.17,
+    "next_event_point": 2025.1
+  },
+  "F5_plateau": {
+    "theta_ceiling_L": 93.0,
+    "theta_99pct_year": 2047.0,
+    "non_state_2046": {
+      "point": 112.0,
+      "lo95": 70.0,
+      "hi95": 180.0
+    },
+    "plateau_ratio_law": 1.06,
+    "plateau_ratio_null": 1.23,
+    "linear_null_2046": 138.0
+  },
+  "F6_nuclear": {
+    "n_declared": 8,
+    "last": 2006.77,
+    "elapsed_since_last": 19.7,
+    "mean_gap_preNPT": 4.8,
+    "mean_gap_postNPT": 14.0,
+    "healing_factor": 2.9,
+    "P_10th_by_2046": 0.75,
+    "median_10th_year": 2036.2,
+    "median_if_healing_collapses": 3.3
+  },
+  "F7_ukraine": {
+    "n_completed_wars": 25,
+    "weibull_shape": 0.59,
+    "weibull_scale": 0.58,
+    "ukraine_age_2026": 4.35,
+    "median_cessation_year": 2028.2,
+    "p90_cessation_year": 2032.9,
+    "share_treaty_at_termination": 0.04,
+    "share_frozen": 0.44
+  }
+}

@@ -1,0 +1,48 @@
+# UN membership growth, 1945-2026. n_admitted = states admitted that year;
+# cumulative = UN-reported total (nets out mergers/withdrawals, e.g. UAR 1958,
+# Indonesia's 1965-66 absence, German/Yemeni unifications 1990).
+# Source: https://www.un.org/en/about-us/growth-in-un-membership (retrieved 2026-07-08).
+# No state has been admitted since South Sudan (14 July 2011).
+year,n_admitted,cumulative
+1945,51,51
+1946,4,55
+1947,2,57
+1948,1,58
+1949,1,59
+1950,1,60
+1955,16,76
+1956,4,80
+1957,2,82
+1958,1,82
+1960,17,99
+1961,5,104
+1962,6,110
+1963,3,113
+1964,3,115
+1965,3,117
+1966,5,122
+1967,1,123
+1968,3,126
+1970,1,127
+1971,5,132
+1973,3,135
+1974,3,138
+1975,6,144
+1976,3,147
+1977,2,149
+1978,2,151
+1979,1,152
+1980,2,154
+1981,3,157
+1983,1,158
+1984,1,159
+1990,2,159
+1991,7,166
+1992,13,179
+1993,6,184
+1994,1,185
+1999,3,188
+2000,2,189
+2002,2,191
+2006,1,192
+2011,1,193

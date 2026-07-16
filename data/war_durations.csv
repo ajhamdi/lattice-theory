@@ -1,0 +1,33 @@
+# Interstate wars since 1945 (sustained state-vs-state combat), decimal-year start/end of the
+# active phase, and termination mode. "treaty_at_termination" means the shooting stopped via a
+# ratified political settlement of the underlying dispute within ~1 year; almost everything else
+# is a ceasefire/armistice, many of which froze. Dates from standard chronology
+# (Correlates of War interstate war list; per-war Wikipedia articles — see section 24).
+# Russia-Ukraine is right-censored (ongoing as of 2026-07).
+war,start,end,duration_yrs,termination
+First Kashmir War,1947.80,1949.00,1.20,armistice_frozen
+First Arab-Israeli War,1948.37,1949.20,0.83,armistice_frozen
+Korean War,1950.48,1953.57,3.09,armistice_frozen
+Suez War,1956.83,1956.87,0.04,withdrawal
+Sino-Indian War,1962.80,1962.90,0.10,ceasefire_frozen
+Second Kashmir War,1965.60,1965.73,0.13,ceasefire
+Six-Day War,1967.42,1967.44,0.02,ceasefire_frozen
+War of Attrition,1967.50,1970.60,3.10,ceasefire
+Football War,1969.53,1969.54,0.01,ceasefire
+Indo-Pakistani War of 1971,1971.92,1971.96,0.04,ceasefire
+Yom Kippur War,1973.76,1973.82,0.06,ceasefire
+Turkish invasion of Cyprus,1974.55,1974.63,0.08,ceasefire_frozen
+Ogaden War,1977.53,1978.21,0.68,withdrawal
+Uganda-Tanzania War,1978.83,1979.42,0.59,victory
+Sino-Vietnamese War,1979.13,1979.19,0.06,withdrawal
+Iran-Iraq War,1980.71,1988.63,7.92,ceasefire_no_treaty
+Falklands War,1982.25,1982.45,0.20,cessation_no_treaty
+Gulf War,1990.61,1991.16,0.55,ceasefire
+First Nagorno-Karabakh War,1992.15,1994.37,2.22,ceasefire_frozen
+Cenepa War,1995.07,1995.15,0.08,treaty_at_termination
+Eritrean-Ethiopian War,1998.35,2000.45,2.10,treaty_then_frozen
+Kargil War,1999.34,1999.55,0.21,withdrawal
+Kosovo War (NATO-FRY),1999.22,1999.44,0.22,agreement_frozen
+Russo-Georgian War,2008.60,2008.63,0.03,ceasefire_frozen
+Second Nagorno-Karabakh War,2020.74,2020.86,0.12,ceasefire_frozen
+Russia-Ukraine War,2022.15,,,ongoing_censored

@@ -1,0 +1,47 @@
+# Empire peak areas from Taagepera (1978, 1979, 1997) as compiled in Wikipedia "List of largest empires" (accessed 2026-07-08).
+# Durations are gross political lifetimes between conventional founding and dissolution dates (negative years = BCE).
+# Duration definition is the loosest possible (full polity lifetime, not Taagepera's time-above-half-peak); sensitivity noted in report.
+name,peak_area_Mm2,start_year,end_year
+British Empire,35.5,1583,1997
+Mongol Empire,24.0,1206,1368
+Russian Empire,22.8,1721,1917
+Qing dynasty,14.7,1644,1912
+Spanish Empire,13.7,1492,1898
+Second French colonial empire,11.5,1830,1962
+Abbasid Caliphate,11.1,750,1258
+Umayyad Caliphate,11.1,661,750
+Yuan dynasty,11.0,1271,1368
+Xiongnu Empire,9.0,-209,91
+Empire of Brazil,8.3,1822,1889
+Empire of Japan,7.4,1868,1945
+Eastern Han dynasty,6.5,25,220
+Ming dynasty,6.5,1368,1644
+Rashidun Caliphate,6.4,632,661
+First Turkic Khaganate,6.0,552,603
+Golden Horde,6.0,1242,1502
+Western Han dynasty,6.0,-202,9
+Achaemenid Empire,5.5,-550,-330
+Portuguese Empire,5.5,1415,1975
+Tang dynasty,5.4,618,907
+Macedonian Empire,5.2,-336,-323
+Ottoman Empire,5.2,1299,1922
+Roman Empire,5.0,-27,476
+Maurya Empire,5.0,-321,-185
+Xin dynasty,4.7,9,23
+Tibetan Empire,4.6,618,842
+Timurid Empire,4.4,1370,1507
+Fatimid Caliphate,4.1,909,1171
+Mughal Empire,4.0,1526,1857
+Seleucid Empire,3.9,-312,-63
+Sasanian Empire,3.5,224,651
+Delhi Sultanate,3.2,1206,1526
+Safavid Empire,2.9,1501,1736
+Byzantine Empire,2.8,395,1453
+Almohad Caliphate,2.3,1121,1269
+Khwarazmian Empire,2.3,1077,1231
+Inca Empire,2.0,1438,1533
+Neo-Assyrian Empire,1.4,-911,-609
+Songhai Empire,1.4,1464,1591
+Mali Empire,1.1,1235,1600
+Carolingian Empire,1.1,800,888
+Aztec Empire,0.22,1428,1521

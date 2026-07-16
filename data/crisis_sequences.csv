@@ -1,0 +1,48 @@
+# Sub-critical crisis cycles ("fatigue cycles") for five arenas, dated as decimal years at crisis onset.
+# Pre-WWI European system: fracture (system-wide war) occurred July 1914 = 1914.56.
+# India-Pakistan and Taiwan Strait: no terminal fracture (right-censored sequences).
+# armaz (Armenia-Azerbaijan, post-1994-ceasefire cycles): fracture occurred Sept 2023 = 2023.72
+#   (one-day offensive; Nagorno-Karabakh Republic formally dissolved 2024-01-01) - used for
+#   out-of-sample retrodiction of the timing machinery in Part IV.
+# kosovo (Serbia-Kosovo, post-1999 cycles): no terminal fracture (right-censored) - used for forecast.
+# Dates compiled from standard diplomatic-history chronology (see section 24 for per-arena sources).
+arena,event,year
+prewwi,First Moroccan (Tangier) Crisis,1905.25
+prewwi,Bosnian Annexation Crisis,1908.79
+prewwi,Agadir (Second Moroccan) Crisis,1911.50
+prewwi,First Balkan War,1912.79
+prewwi,Second Balkan War,1913.46
+prewwi,July Crisis -> fracture,1914.56
+indpak,First Kashmir War,1947.80
+indpak,Second Kashmir War,1965.60
+indpak,Bangladesh War,1971.92
+indpak,Siachen (Op Meghdoot),1984.29
+indpak,Brasstacks crisis,1987.04
+indpak,Compound Kashmir crisis,1990.29
+indpak,Kargil War,1999.37
+indpak,Parliament attack standoff,2001.96
+indpak,Mumbai attacks crisis,2008.90
+indpak,Uri attack / surgical strikes,2016.71
+indpak,Pulwama-Balakot crisis,2019.12
+indpak,Pahalgam / Op Sindoor,2025.35
+taiwan,First Taiwan Strait Crisis,1954.67
+taiwan,Second Taiwan Strait Crisis,1958.63
+taiwan,Third Taiwan Strait Crisis,1995.54
+taiwan,Fourth Taiwan Strait Crisis (Pelosi),2022.58
+armaz,Mardakert skirmish,2008.17
+armaz,Helicopter shootdown,2014.86
+armaz,Four-Day War,2016.25
+armaz,July clashes,2020.53
+armaz,44-Day War,2020.74
+armaz,September clashes,2022.70
+armaz,Karabakh offensive -> fracture,2023.72
+kosovo,March unrest,2004.21
+kosovo,Independence declaration crisis,2008.13
+kosovo,North border-post crisis,2011.56
+kosovo,Tariff crisis,2018.89
+kosovo,License-plate crisis,2021.72
+kosovo,Plate deadline / barricades I,2022.58
+kosovo,Barricades II,2022.94
+kosovo,Zvecan clashes,2023.40
+kosovo,Banjska attack,2023.73
+kosovo,Ibar-Lepenac canal sabotage,2024.91
